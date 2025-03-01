@@ -20,4 +20,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-git remote add origin https://github.com/nousernameproject/Parkingapp-2.git
